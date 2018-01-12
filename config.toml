@@ -14,7 +14,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Effective Altruism Zurich"
+  title = "EA Zurich"
   weight = 1
   languageCode = "en"
 
