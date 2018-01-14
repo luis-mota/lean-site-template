@@ -9,11 +9,11 @@ draft: false
 <div id="accordion" role="tablist">
   <div class="card">
     <div class="card-header" role="tab" id="heading1">
-      <a data-toggle="collapse" href="#collapse1" role="button" aria-expanded="true" aria-controls="collapse1">
+      <a data-toggle="collapse" href="#collapse1" role="button" aria-expanded="true" aria-controls="collapse1" class="collapsed">
         <h5 class="mb-0">So what is effective altruism?</h5>
       </a>
     </div>
-    <div id="collapse1" class="collapse show" role="tabpanel" aria-labelledby="heading1">
+    <div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="heading1">
        <div class="card-body">
 <p>
 The core idea:
