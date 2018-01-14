@@ -47,7 +47,7 @@ Then there are people’s best guesses about what specific actions are the most 
 - Reduce [carbon emissions](https://www.givingwhatwecan.org/research/charities-area/climate-change), or research geoengineering, in order to lower the risk of catastrophic climate change.
 - [Increasing support](https://centreforeffectivealtruism.org/) for effective altruism itself, in order to get more effective work on the areas listed above.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading2">
       <a data-toggle="collapse" href="#collapse2" role="button" aria-expanded="true" aria-controls="collapse2">
@@ -61,7 +61,7 @@ OK, probably some others in the community will agree with you! If you have good 
 
 Our whole goal is to be responsive to good evidence and analysis, so we debate a lot and change our minds frequently.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading3">
       <a data-toggle="collapse" href="#collapse3" role="button" aria-expanded="true" aria-controls="collapse3">
@@ -75,7 +75,7 @@ Some people think that helping to improve the world as much as possible is a dut
 
 However you feel, we would love you to join us in improving the world in high-impact ways!
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading4">
       <a data-toggle="collapse" href="#collapse4" role="button" aria-expanded="true" aria-controls="collapse4">
@@ -89,7 +89,7 @@ Usually doing more to help others is better, but you shouldn’t give up the thi
 
 If you are in a difficult circumstance yourself, the most valuable thing you can do may just be to improve your own life, and focus on helping others later once you’re in a stronger position to do so.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading5">
       <a data-toggle="collapse" href="#collapse5" role="button" aria-expanded="true" aria-controls="collapse5">
@@ -105,7 +105,7 @@ If it does seem obvious to you though, great! You’ll probably enjoy joining ou
 
 Our goal is to improve the world – not [define effective altruism to be controversial](http://www.effective-altruism.com/ea/l7/why_the_triviality_objection_to_ea_is_beside_the/) for the sake of it.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading6">
       <a data-toggle="collapse" href="#collapse6" role="button" aria-expanded="true" aria-controls="collapse6">
@@ -123,7 +123,7 @@ But others think the most high-impact opportunities will involve more experiment
 
 Across society as a whole there clearly needs to be a mixture of both.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading7">
       <a data-toggle="collapse" href="#collapse7" role="button" aria-expanded="true" aria-controls="collapse7">
@@ -139,7 +139,7 @@ But other approaches, like going into politics or starting a business that provi
 
 This is a topic of [active](https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-small-proportion-of-people-should-earn-to-give-long-term/) [debate](http://effective-altruism.com/ea/mk/peter_hurford_thinks_that_a_large_proportion_of/).
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading8">
       <a data-toggle="collapse" href="#collapse8" role="button" aria-expanded="true" aria-controls="collapse8">
@@ -157,7 +157,7 @@ However, as we get more skilled in evaluating what works and what doesn’t, mor
 
 [Read more](https://80000hours.org/2015/07/effective-altruists-love-systemic-change/).
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading9">
       <a data-toggle="collapse" href="#collapse9" role="button" aria-expanded="true" aria-controls="collapse9">
@@ -171,7 +171,7 @@ You shouldn’t put yourself in a bad situation in order to donate. You’ll pro
 
 Keep in mind that you may already be [richer on a global scale than you think](https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading10">
       <a data-toggle="collapse" href="#collapse10" role="button" aria-expanded="true" aria-controls="collapse10">
@@ -194,7 +194,7 @@ The websites to search to see if your organisation or cause of interest has been
 
 Or try searching in google for ‘effective altruism’ and the cause you’re interested in.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading11">
       <a data-toggle="collapse" href="#collapse11" role="button" aria-expanded="true" aria-controls="collapse11">
@@ -208,7 +208,7 @@ Yes it would be silly. We offer recommendations about what we think are the best
 
 As more people take the opportunities we recommend, they will stop being so neglected, and the value of allocating more resources to them will go down. At that point we would be enthusiastic to do more research and change our recommendation to whatever is the new best thing.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading12">
       <a data-toggle="collapse" href="#collapse12" role="button" aria-expanded="true" aria-controls="collapse12">
@@ -228,7 +228,7 @@ Of course estimating the likelihood of success is not easy, and we need to be ca
 
 [Here’s a more technical definition of expected value](https://en.wikipedia.org/wiki/Expected_value).
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading13">
       <a data-toggle="collapse" href="#collapse13" role="button" aria-expanded="true" aria-controls="collapse13">
@@ -244,7 +244,7 @@ We each have a range of opportunities available to us to help others, and some w
 
 You could probably do even more good if you evaluated and compared multiple different options and chose the one that came out top. This isn’t a criticism of the work you’re already doing, it’s just an exciting opportunity to help even more people!
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading14">
       <a data-toggle="collapse" href="#collapse14" role="button" aria-expanded="true" aria-controls="collapse14">
@@ -262,7 +262,7 @@ First and foremost you have to make sure you stay enthusiastic and don’t burn 
 
 Regardless, there’s nothing desirable about sacrifice in and of itself.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading15">
       <a data-toggle="collapse" href="#collapse15" role="button" aria-expanded="true" aria-controls="collapse15">
@@ -277,7 +277,7 @@ There’s nothing bad about helping people you know, or even yourself. But often
 For example for $1,000 you could [double the annual income](http://www.givedirectly.org/) for a family engaged in subsistence agriculture in Kenya. This can be life-transforming for several people. If you live in a wealthy country, it’s hard for $1,000 to achieve anywhere near as much in your local community.
 
 Most effective altruists think that everyone is equally important, no matter where they live or whether we are friends with them.
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading16">
       <a data-toggle="collapse" href="#collapse16" role="button" aria-expanded="true" aria-controls="collapse16">
@@ -291,7 +291,7 @@ Well it’s true that we do calculations, and we don’t always know the people 
 
 We want to figure out where we can help the most because we care a lot.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading17">
       <a data-toggle="collapse" href="#collapse17" role="button" aria-expanded="true" aria-controls="collapse17">
@@ -303,7 +303,7 @@ We want to figure out where we can help the most because we care a lot.
 
 Yes, many of us are interested in politics, and some are actively pursuing careers in politics across a range of parties, or through research into the most valuable policy changes to pursue.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading18">
       <a data-toggle="collapse" href="#collapse18" role="button" aria-expanded="true" aria-controls="collapse18">
@@ -315,7 +315,7 @@ Yes, many of us are interested in politics, and some are actively pursuing caree
 
 It’s possible for most charities to be ineffective, something that many of us believe, but a small number to achieve amazing outcomes. That’s why it’s so important to find the best ones. If you are extremely skeptical of non-profits though, effective altruism isn’t about non-profits specifically – non-profits are just one possible route to social impact.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading19">
       <a data-toggle="collapse" href="#collapse19" role="button" aria-expanded="true" aria-controls="collapse19">
@@ -331,7 +331,7 @@ Effective altruists focus on improving lives. Everyone would agree that, all oth
 
 It can be hard to impartially compare different benefits received by different people, but we attempt to be as neutral as we can when doing that too.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading20">
       <a data-toggle="collapse" href="#collapse20" role="button" aria-expanded="true" aria-controls="collapse20">
@@ -343,7 +343,7 @@ It can be hard to impartially compare different benefits received by different p
 
 Other people alive now around the world are obviously included. Most also think that non-human animals matter – though usually each counting for less than one human – as well as people who might live in the future. The most popular criterion for inclusion is ‘being conscious’, though of course what consciousness is and who is conscious is not a solved problem.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading21">
       <a data-toggle="collapse" href="#collapse21" role="button" aria-expanded="true" aria-controls="collapse21">
@@ -357,7 +357,7 @@ A significant number are, because they think farmed animals live horrible lives,
 
 Some of us are researching [how best to help non-human animals](http://animalcharityevaluators.org/).
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading22">
       <a data-toggle="collapse" href="#collapse22" role="button" aria-expanded="true" aria-controls="collapse22">
@@ -371,7 +371,7 @@ Unlike [utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism), effective
 
 Utilitarians are usually enthusiastic about the idea of effective altruism, but many effective altruists are not utilitarians and care intrinsically about things other than welfare, such as violation of rights, freedom, inequality, personal virtue and more. In practice, most people give a bit of weight to a range of different ethical theories.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading23">
       <a data-toggle="collapse" href="#collapse23" role="button" aria-expanded="true" aria-controls="collapse23">
@@ -392,7 +392,7 @@ In cases where the above don’t apply, you have to conduct detailed impact eval
 
 In other cases where people are trying to help non-human animals or future generations, these issues can be even more difficult, and people do their best to predict what they would want if they could speak to us. Obvious cases would include pigs not wanting to be permanently confined to ‘gestation crates’ in which they cannot turn around, or future generations not wanting to inherit a planet on which humans cannot easily live.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading24">
       <a data-toggle="collapse" href="#collapse24" role="button" aria-expanded="true" aria-controls="collapse24">
@@ -404,7 +404,7 @@ In other cases where people are trying to help non-human animals or future gener
 
 None of the above. We have people participating from across the political spectrum. What unifies us is having an open mind and a pragmatic approach to helping others. People of many political persuasions share that.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading25">
       <a data-toggle="collapse" href="#collapse25" role="button" aria-expanded="true" aria-controls="collapse25">
@@ -416,7 +416,7 @@ None of the above. We have people participating from across the political spectr
 
 Even after paying our taxes, many of us find we still have plenty of capacity and desire to help people. For some of us that is based in excitement about the opportunities we see to improve people’s lives; for others it is based on a sense of duty towards those less fortunate than ourselves. In many cases we support worthwhile causes which are simply not addressed by governments.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading26">
       <a data-toggle="collapse" href="#collapse26" role="button" aria-expanded="true" aria-controls="collapse26">
@@ -428,7 +428,7 @@ Even after paying our taxes, many of us find we still have plenty of capacity an
 
 Yes, there are effective altruists from a variety of religious backgrounds. Many religions have historically incorporated charity or tithing and promoted helping others, and religious effective altruists think it’s important to observe these duties as best they can. That said, there are also many non-religious effective altruists.
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading27">
       <a data-toggle="collapse" href="#collapse27" role="button" aria-expanded="true" aria-controls="collapse27">
@@ -448,7 +448,7 @@ We are a friendly, motivated and well-read bunch of people. Joining the movement
 
 That said, one can engage in effective altruism without taking any interest in the community. If you do a lot of good without us, that’s great!
 
-  </div></div></div>
+      </div></div></div>
   <div class="card">
     <div class="card-header" role="tab" id="heading28">
       <a data-toggle="collapse" href="#collapse28" role="button" aria-expanded="true" aria-controls="collapse28">
@@ -469,7 +469,7 @@ We’re glad you’d like to join us! Here are a few things you can do:
 - Join or start a local chapter or [EA group](http://effectivealtruismhub.com/groups). Email jonathan [dot] courtney [at] givingwhatwecan [dot] org.
 - Apply to work at an EA-oriented organisation, e.g. [GiveWell](http://www.givewell.org/about/jobs) or [Center for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
 
-  </div></div></div>
+      </div></div></div>
 </div>
 
 Written by a range of contributors.
