@@ -170,7 +170,7 @@ This is a topic of <a href="https://80000hours.org/2015/07/80000-hours-thinks-th
 <p>
 No. There is nothing about effective altruist principles that rejects changing social systems for the better, and some of us are already working on this.
 </p><p>
-It is early days for the movement, and to begin with a lot of research and donations went to approaches that are ‘proven’ to work, such as scaling up rigorously tested health treatments – sometimes by providing technical assistance to governments in the developing world.
+In the early days of the movement, a lot of research and donations went to approaches that are ‘proven’ to work, such as scaling up rigorously tested health treatments – sometimes by providing technical assistance to governments in the developing world.
 </p><p>
 However, as we get more skilled in evaluating what works and what doesn’t, more of us are shifting into approaches that involve systemic change, in some cases quite dramatic ones.
 </p><p>
