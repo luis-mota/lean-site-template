@@ -18,7 +18,7 @@ draft: false
 <p>
 The core idea:
 </p><p>
-Effective altruism is using evidence and analysis to take actions that help others as much as possible.
+<b>Effective altruism is using evidence and analysis to take actions that help others as much as possible.</b>
 </p><p>
 The world has a lot of horrible problems but we can’t work on them all at once. Our goal is to accomplish the most good for the world with our limited time, energy, and resources.
 </p><p>
@@ -35,9 +35,9 @@ There is a lot of agreement among people in the movement about what questions we
 As a rule of thumb, effective altruists are looking for causes or approaches that score well on 3 criteria:
 </p>
 <ul>
-<li>Important: helps many people a lot.</li>
-<li>Neglected: other people aren’t already taking all of the good opportunities.</li>
-<li>Tractable: there’s something practical you can do that might succeed.</li>
+<li><b>Important</b>: helps many people a lot.</li>
+<li><b>Neglected</b>: other people aren’t already taking all of the good opportunities.</li>
+<li><b>Tractable</b>: there’s something practical you can do that might succeed.</li>
 </ul>
 <p>
 Then there are people’s best guesses about what specific actions are the most effective. Beliefs vary widely on this topic, and cause selection is an active field of research, but some of the currently most popular options include:
@@ -57,7 +57,7 @@ Then there are people’s best guesses about what specific actions are the most 
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading2">
-      <a data-toggle="collapse" href="#collapse2" role="button" aria-expanded="true" aria-controls="collapse2">
+      <a data-toggle="collapse" href="#collapse2" role="button" aria-expanded="true" aria-controls="collapse2" class="collapsed">
         <h5 class="mb-0">I think one of those approaches you listed won’t help people much, or would actually be harmful.</h5>
       </a>
     </div>
@@ -73,7 +73,7 @@ Our whole goal is to be responsive to good evidence and analysis, so we debate a
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading3">
-      <a data-toggle="collapse" href="#collapse3" role="button" aria-expanded="true" aria-controls="collapse3">
+      <a data-toggle="collapse" href="#collapse3" role="button" aria-expanded="true" aria-controls="collapse3" class="collapsed">
         <h5 class="mb-0">Do you think everyone should do this?</h5>
       </a>
     </div>
@@ -89,7 +89,7 @@ However you feel, we would love you to join us in improving the world in high-im
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading4">
-      <a data-toggle="collapse" href="#collapse4" role="button" aria-expanded="true" aria-controls="collapse4">
+      <a data-toggle="collapse" href="#collapse4" role="button" aria-expanded="true" aria-controls="collapse4" class="collapsed">
         <h5 class="mb-0">Are you saying I should spend all of my money or time on this?</h5>
       </a>
     </div>
@@ -105,7 +105,7 @@ If you are in a difficult circumstance yourself, the most valuable thing you can
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading5">
-      <a data-toggle="collapse" href="#collapse5" role="button" aria-expanded="true" aria-controls="collapse5">
+      <a data-toggle="collapse" href="#collapse5" role="button" aria-expanded="true" aria-controls="collapse5" class="collapsed">
         <h5 class="mb-0">Isn’t this incredibly obvious?</h5>
       </a>
     </div>
@@ -123,7 +123,7 @@ Our goal is to improve the world – not <a href="http://www.effective-altruism.
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading6">
-      <a data-toggle="collapse" href="#collapse6" role="button" aria-expanded="true" aria-controls="collapse6">
+      <a data-toggle="collapse" href="#collapse6" role="button" aria-expanded="true" aria-controls="collapse6" class="collapsed">
         <h5 class="mb-0">Do you only do things that are ‘proven’ to work?</h5>
       </a>
     </div>
@@ -143,7 +143,7 @@ Across society as a whole there clearly needs to be a mixture of both.
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading7">
-      <a data-toggle="collapse" href="#collapse7" role="button" aria-expanded="true" aria-controls="collapse7">
+      <a data-toggle="collapse" href="#collapse7" role="button" aria-expanded="true" aria-controls="collapse7" class="collapsed">
         <h5 class="mb-0">Is effective altruism about making money and giving donations to charity?</h5>
       </a>
     </div>
@@ -161,7 +161,7 @@ This is a topic of <a href="https://80000hours.org/2015/07/80000-hours-thinks-th
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading8">
-      <a data-toggle="collapse" href="#collapse8" role="button" aria-expanded="true" aria-controls="collapse8">
+      <a data-toggle="collapse" href="#collapse8" role="button" aria-expanded="true" aria-controls="collapse8" class="collapsed">
         <h5 class="mb-0">Aren’t you neglecting changing the system as a whole?</h5>
       </a>
     </div>
@@ -181,7 +181,7 @@ However, as we get more skilled in evaluating what works and what doesn’t, mor
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading9">
-      <a data-toggle="collapse" href="#collapse9" role="button" aria-expanded="true" aria-controls="collapse9">
+      <a data-toggle="collapse" href="#collapse9" role="button" aria-expanded="true" aria-controls="collapse9" class="collapsed">
         <h5 class="mb-0">What if I don’t have enough money to give anything?</h5>
       </a>
     </div>
@@ -197,7 +197,7 @@ Keep in mind that you may already be <a href="https://www.givingwhatwecan.org/ge
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading10">
-      <a data-toggle="collapse" href="#collapse10" role="button" aria-expanded="true" aria-controls="collapse10">
+      <a data-toggle="collapse" href="#collapse10" role="button" aria-expanded="true" aria-controls="collapse10" class="collapsed">
         <h5 class="mb-0">Have effective altruist researchers looked into [insert cause here]?</h5>
       </a>
     </div>
@@ -224,7 +224,7 @@ Or try searching in google for ‘effective altruism’ and the cause you’re i
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading11">
-      <a data-toggle="collapse" href="#collapse11" role="button" aria-expanded="true" aria-controls="collapse11">
+      <a data-toggle="collapse" href="#collapse11" role="button" aria-expanded="true" aria-controls="collapse11" class="collapsed">
         <h5 class="mb-0">What if everyone focused on this one cause or charity you’re suggesting? Wouldn’t that be silly?</h5>
       </a>
     </div>
@@ -240,7 +240,7 @@ As more people take the opportunities we recommend, they will stop being so negl
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading12">
-      <a data-toggle="collapse" href="#collapse12" role="button" aria-expanded="true" aria-controls="collapse12">
+      <a data-toggle="collapse" href="#collapse12" role="button" aria-expanded="true" aria-controls="collapse12" class="collapsed">
         <h5 class="mb-0">How do I compare something that is sure to work, with something that might work, but would be more valuable if it did?</h5>
       </a>
     </div>
@@ -262,7 +262,7 @@ Of course estimating the likelihood of success is not easy, and we need to be ca
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading13">
-      <a data-toggle="collapse" href="#collapse13" role="button" aria-expanded="true" aria-controls="collapse13">
+      <a data-toggle="collapse" href="#collapse13" role="button" aria-expanded="true" aria-controls="collapse13" class="collapsed">
         <h5 class="mb-0">Are you saying [insert cause here], or the thing I’m doing to improve the world, isn’t the most effective?</h5>
       </a>
     </div>
@@ -280,7 +280,7 @@ You could probably do even more good if you evaluated and compared multiple diff
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading14">
-      <a data-toggle="collapse" href="#collapse14" role="button" aria-expanded="true" aria-controls="collapse14">
+      <a data-toggle="collapse" href="#collapse14" role="button" aria-expanded="true" aria-controls="collapse14" class="collapsed">
           <h5 class="mb-0">Does effective altruism require personal sacrifice?</h5>
       </a>
     </div>
@@ -300,7 +300,7 @@ Regardless, there’s nothing desirable about sacrifice in and of itself.
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading15">
-      <a data-toggle="collapse" href="#collapse15" role="button" aria-expanded="true" aria-controls="collapse15">
+      <a data-toggle="collapse" href="#collapse15" role="button" aria-expanded="true" aria-controls="collapse15" class="collapsed">
           <h5 class="mb-0">Doesn’t charity start at home?</h5>
       </a>
     </div>
@@ -318,7 +318,7 @@ Most effective altruists think that everyone is equally important, no matter whe
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading16">
-      <a data-toggle="collapse" href="#collapse16" role="button" aria-expanded="true" aria-controls="collapse16">
+      <a data-toggle="collapse" href="#collapse16" role="button" aria-expanded="true" aria-controls="collapse16" class="collapsed">
         <h5 class="mb-0">Isn’t this kind of calculating and impersonal?</h5>
       </a>
     </div>
@@ -334,7 +334,7 @@ We want to figure out where we can help the most because we care a lot.
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading17">
-      <a data-toggle="collapse" href="#collapse17" role="button" aria-expanded="true" aria-controls="collapse17">
+      <a data-toggle="collapse" href="#collapse17" role="button" aria-expanded="true" aria-controls="collapse17" class="collapsed">
         <h5 class="mb-0">Are any of you involved in politics?</h5>
       </a>
     </div>
@@ -348,7 +348,7 @@ Yes, many of us are interested in politics, and some are actively pursuing caree
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading18">
-      <a data-toggle="collapse" href="#collapse18" role="button" aria-expanded="true" aria-controls="collapse18">
+      <a data-toggle="collapse" href="#collapse18" role="button" aria-expanded="true" aria-controls="collapse18" class="collapsed">
         <h5 class="mb-0">I don’t think ‘charity’ works well in general.</h5>
       </a>
     </div>
@@ -362,7 +362,7 @@ It’s possible for most charities to be ineffective, something that many of us 
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading19">
-      <a data-toggle="collapse" href="#collapse19" role="button" aria-expanded="true" aria-controls="collapse19">
+      <a data-toggle="collapse" href="#collapse19" role="button" aria-expanded="true" aria-controls="collapse19" class="collapsed">
         <h5 class="mb-0">What does it mean to help people? Or, what is good?</h5>
       </a>
     </div>
@@ -380,7 +380,7 @@ It can be hard to impartially compare different benefits received by different p
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading20">
-      <a data-toggle="collapse" href="#collapse20" role="button" aria-expanded="true" aria-controls="collapse20">
+      <a data-toggle="collapse" href="#collapse20" role="button" aria-expanded="true" aria-controls="collapse20" class="collapsed">
         <h5 class="mb-0">Who are these ‘others’ you are trying to help?</h5>
       </a>
     </div>
@@ -394,7 +394,7 @@ Other people alive now around the world are obviously included. Most also think 
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading21">
-      <a data-toggle="collapse" href="#collapse21" role="button" aria-expanded="true" aria-controls="collapse21">
+      <a data-toggle="collapse" href="#collapse21" role="button" aria-expanded="true" aria-controls="collapse21" class="collapsed">
         <h5 class="mb-0">Are you all vegetarians?</h5>
       </a>
     </div>
@@ -410,7 +410,7 @@ Some of us are researching <a href="http://animalcharityevaluators.org/">how bes
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading22">
-      <a data-toggle="collapse" href="#collapse22" role="button" aria-expanded="true" aria-controls="collapse22">
+      <a data-toggle="collapse" href="#collapse22" role="button" aria-expanded="true" aria-controls="collapse22" class="collapsed">
         <h5 class="mb-0">Is this utilitarianism?</h5>
       </a>
     </div>
@@ -426,7 +426,7 @@ Utilitarians are usually enthusiastic about the idea of effective altruism, but 
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading23">
-      <a data-toggle="collapse" href="#collapse23" role="button" aria-expanded="true" aria-controls="collapse23">
+      <a data-toggle="collapse" href="#collapse23" role="button" aria-expanded="true" aria-controls="collapse23" class="collapsed">
         <h5 class="mb-0">How are the people you’re trying to help involved in decision-making?</h5>
       </a>
     </div>
@@ -449,7 +449,7 @@ In other cases where people are trying to help non-human animals or future gener
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading24">
-      <a data-toggle="collapse" href="#collapse24" role="button" aria-expanded="true" aria-controls="collapse24">
+      <a data-toggle="collapse" href="#collapse24" role="button" aria-expanded="true" aria-controls="collapse24" class="collapsed">
         <h5 class="mb-0">Is effective altruism left-wing, right-wing, libertarian, conservative, or something else?</h5>
       </a>
     </div>
@@ -463,7 +463,7 @@ None of the above. We have people participating from across the political spectr
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading25">
-      <a data-toggle="collapse" href="#collapse25" role="button" aria-expanded="true" aria-controls="collapse25">
+      <a data-toggle="collapse" href="#collapse25" role="button" aria-expanded="true" aria-controls="collapse25" class="collapsed">
         <h5 class="mb-0">I already pay my taxes. Why should I have to do more?</h5>
       </a>
     </div>
@@ -477,7 +477,7 @@ Even after paying our taxes, many of us find we still have plenty of capacity an
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading26">
-      <a data-toggle="collapse" href="#collapse26" role="button" aria-expanded="true" aria-controls="collapse26">
+      <a data-toggle="collapse" href="#collapse26" role="button" aria-expanded="true" aria-controls="collapse26" class="collapsed">
         <h5 class="mb-0">Are there religious effective altruists?</h5>
       </a>
     </div>
@@ -491,7 +491,7 @@ Yes, there are effective altruists from a variety of religious backgrounds. Many
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading27">
-      <a data-toggle="collapse" href="#collapse27" role="button" aria-expanded="true" aria-controls="collapse27">
+      <a data-toggle="collapse" href="#collapse27" role="button" aria-expanded="true" aria-controls="collapse27" class="collapsed">
         <h5 class="mb-0">Why should I join the effective altruist movement? I’m already planning on doing a lot of good on my own, and I’m not sure your approach is best.</h5>
       </a>
     </div>
@@ -515,7 +515,7 @@ That said, one can engage in effective altruism without taking any interest in t
   </div>
   <div class="card">
     <div class="card-header" role="tab" id="heading28">
-      <a data-toggle="collapse" href="#collapse28" role="button" aria-expanded="true" aria-controls="collapse28">
+      <a data-toggle="collapse" href="#collapse28" role="button" aria-expanded="true" aria-controls="collapse28" class="collapsed">
         <h5 class="mb-0">How can I become involved?</h5>
       </a>
     </div>
