@@ -4,5 +4,5 @@
 * [80000 Hours](https://80000hours.org/)
 * [GiveWell](https://www.givewell.org/)
 * [The Life You Can Save](https://www.thelifeyoucansave.org/)
-* [EA Foundation](https://ea-foundation.org)
+* [Effective Altruism Foundation](https://ea-foundation.org)
 * [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)
