@@ -1,4 +1,4 @@
-baseURL = "https://eazurich.github.io/lean-site-template/"
+baseURL = "http://eazurich.github.io/lean-site-template/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -25,7 +25,7 @@ DefaultContentLanguage = "en"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism Zurich"
+  legalOrgName = "Effektiver Altruismus Zürich"
   orgLocations = "Zurich"
   contactEmail = "zuerich@ea-stiftung.org"
 

@@ -17,7 +17,7 @@ __**[CEA](https://www.centreforeffectivealtruism.org/)**__: The Centre for Effec
 
 __**[Center for Applied Rationality](http://rationality.org/)**__ runs 4 day workshops on, no surprises here, rationality. They often give significant discounts to effective altruists, and a lot of people report benefiting from their workshops.
 
-__**[Charity Science Foundation](http://www.charityscience.com/)**__: The Charity Science Foundation 
+__**[Charity Science Foundation](http://www.charityscience.com/)**__ is an umbrella organization with the ultimate goal of helping relieve as much suffering as possible.
 
 __**[Effective Altruism Foundation](https://ea-foundation.org/)**__ (EAF) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible.
 
