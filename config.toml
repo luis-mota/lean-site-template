@@ -1,4 +1,4 @@
-baseURL = "http://eazurich.github.io/lean-site-template/"
+baseURL = "http://eazurich.org/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
