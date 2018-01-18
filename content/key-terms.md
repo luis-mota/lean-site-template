@@ -8,7 +8,7 @@ draft: false
 <br>
 
 #### Core Ideas
-**Effective Altruism** is (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
+**Effective Altruism** (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
 
 **Cost-effectiveness**: The cost-effectiveness of a charitable intervention simply refers to how much good it does with a certain amount of resources. The cost-effectiveness of a donation to a charity typically refers to how much good the donation does *on the margin* e.g. if you donate $100 to a charity, how much *extra* impact will be produced.
 
