@@ -15,9 +15,9 @@ __**[Animal Charity Evaluators](https://animalcharityevaluators.org/)**__ invest
 
 __**[Animal Equality](https://www.animalequality.de/)**__ advocates for animals in the U.S., Europe, Latin America, India, and China. They conduct investigations, engage in grassroots advocacy, run corporate and legislative campaigns, and make significant efforts to research the impact of their programs.
 
-__**[CEA](https://www.centreforeffectivealtruism.org/)**__: The Centre for Effective Altruism (CEA) is a coalition of projects related to EA. Giving What We Can and 80,000 Hours are both part of CEA. They also run the Global Priorities Project and other special projects and raise public awareness of EA.
-
 __**[Center for Applied Rationality](http://rationality.org/)**__ runs 4 day workshops on, no surprises here, rationality. They often give significant discounts to effective altruists, and a lot of people report benefiting from their workshops.
+
+__**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)**__ (CEA) is a coalition of projects related to EA. Giving What We Can and 80,000 Hours are both part of CEA. They also run the Global Priorities Project and other special projects and raise public awareness of EA.
 
 __**[Charity Science Foundation](http://www.charityscience.com/)**__ is an umbrella organization with the ultimate goal of helping relieve as much suffering as possible.
 
