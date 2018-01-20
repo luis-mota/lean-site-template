@@ -1,4 +1,4 @@
-baseURL = "https://eazurich.org/"
+baseURL = "https://eazurich.org"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
