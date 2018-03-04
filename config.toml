@@ -69,8 +69,8 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Visit us on Facebook"
-  firstButtonLink = "https://www.facebook.com/eazuerich"
+  firstButtonText = "About effective altruism"
+  firstButtonLink = "https://eazurich.org/effective-altruism/"
   secondButtonText = "Visit us on Meetup"
   secondButtonLink = "https://www.meetup.com/Effective-Altruism-Zurich/"
   # Remove the # before the text to add the optional Meetup button

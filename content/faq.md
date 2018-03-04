@@ -534,7 +534,6 @@ draft: false
           <li><a href="https://www.givingwhatwecan.org/">Take a pledge to give to effective charities</a>.</li>
           <li>Join or start a local chapter or <a href="http://effectivealtruismhub.com/groups">EA group</a>. Email jonathan [dot] courtney [at] givingwhatwecan [dot] org.</li>
           <li>Apply to work at an EA-oriented organisation, e.g. <a href="http://www.givewell.org/about/jobs">GiveWell</a> or <a href="https://centreforeffectivealtruism.org/careers/">Center for Effective Altruism</a>.</li>
-          <li>Attend an <a href="https://www.eaglobal.org/">EA Global conference</a>.</li>
         </ul>
       </div>
     </div>

@@ -21,7 +21,7 @@ __**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)
 
 __**[Charity Science Foundation](http://www.charityscience.com/)**__ is an umbrella organization with the ultimate goal of helping relieve as much suffering as possible.
 
-__**[Effective Altruism Foundation](https://ea-foundation.org/)**__ (EAF) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible.
+__**[Effective Altruism Foundation](https://ea-foundation.org/)**__ (EAF, German: Stiftung für Effektiven Altruismus) is an independent, non-profit think tank and project incubator looking for the best ways to help as many individuals as possible.
 
 __**[Future of Humanity Institute](https://www.fhi.ox.ac.uk/)**__ (FHI) is a research center at Oxford that is a leading producer of research on existential risk. FHI’s main areas of research are global catastrophic risk, applied epistemology, human enhancement, and future technologies.
 
@@ -32,6 +32,11 @@ __**[Giving What We Can](https://www.givingwhatwecan.org/)**__ is an internation
 __**[GiveWell](https://www.givewell.org/)**__ is a non-profit that evaluates charities in order to find outstanding giving opportunities. In particular, GiveWell seesk out charities who provide strong evidence of impact-per-dollar and room for more funding, and who can demonstrate trustworthiness and transparency. GiveWell recommends just a few charities at a time and these recommendations inform the donations of many effective altruists.
 
 __**[Machine Intelligence Research Institute](https://intelligence.org/)**__ (MIRI) is an non-profit whose mission is to “ensure that the creation of smarter-than-human intelligence has a positive impact.” MIRI’s main activity is to conduct research on a topics such as: How can a machine reason coherently about its own behavior? What is a better formalization for decision-making under uncertainty? How can we specify an AI’s goals to ensure that it matches our intentions, even as the AI modifies itself? What AI-related interventions are the most beneficial?
+
+__**[Open Philanthropy Project](https://www.openphilanthropy.org/)**__ identifies outstanding giving opportunities, makes grants, follows the results, and publishes their findings. Their main funders are Cari Tuna and Dustin Moskovitz, a co-founder of Facebook and Asana.
+
+__**[OpenAI](https://openai.com/)**__ is a non-profit AI research company, discovering and enacting the path to safe
+artificial general intelligence.
 
 __**[Raising for Effective Giving](https://reg-charity.org/)**__ (REG), a project from EAF, encourages touring poker players to donate 2% of their winnings to effective charity (which sometimes totals tens of millions).
 
