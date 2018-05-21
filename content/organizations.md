@@ -44,6 +44,8 @@ __**[Rethink Charity](https://rtcharity.org/)**__, formerly known as .impact, ru
 
 __**[Schistosomiasis Control Initiative](https://www.imperial.ac.uk/schistosomiasis-control-initiative)**__ (SCI) is a non-profit that works with local Ministries of Health across sub-Saharan Africa to treat children and at-risk adults for schistosomiasis and other parasitic worms. GiveWell has recommended SCI as a top charity, and in 2013, estimated that it costs $0.80 to deworm one child, with SCI paying about 70% of these costs (see “leveraging donations”).
 
+__**[Sentience Politics](https://sentience-politics.org/)**__ is an effectiveness-focused anti-speciesist political think tank with the goal of reducing the suffering of all sentient beings. They will launch a national ballot initiative in spring 2018, calling for the abolition of factory farming in Switzerland.
+
 __**[The Good Food Institute](http://www.gfi.org/)**__ works in an underutilized but critically important area by promoting and aiding the development of competitive alternatives to animal-based meat, dairy, and eggs.
 
 __**[The Humane League](https://thehumaneleague.org/)**__ has built an especially effective corporate outreach department that has achieved substantial progress for millions of animals over the past year, often through collaborative campaigns with other advocacy groups.
