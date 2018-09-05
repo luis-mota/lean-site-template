@@ -14,7 +14,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "EA Zurich"
+  title = "AE USP"
   weight = 1
   languageCode = "en"
 
@@ -25,9 +25,9 @@ DefaultContentLanguage = "en"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effektiver Altruismus Zürich"
-  orgLocations = "Zurich"
-  contactEmail = "zuerich@ea-stiftung.org"
+  legalOrgName = "Altruísmo Eficaz USP"
+  orgLocations = "São Paulo"
+  contactEmail = "altruismoeficazusp@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -70,9 +70,9 @@ DefaultContentLanguage = "en"
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
   firstButtonText = "About effective altruism"
-  firstButtonLink = "https://eazurich.org/effective-altruism/"
+  firstButtonLink = ""
   secondButtonText = "Visit us on Meetup"
-  secondButtonLink = "https://www.meetup.com/Effective-Altruism-Zurich/"
+  secondButtonLink = ""
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -80,6 +80,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = "https://www.facebook.com/eazuerich"
+  facebookUrl = "https://www.facebook.com/altruismoeficazusp"
 #  twitterUrl = ""
-  meetupUrl = "https://www.meetup.com/Effective-Altruism-Zurich/"
+  meetupUrl = ""
