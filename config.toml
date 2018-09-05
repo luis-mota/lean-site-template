@@ -20,7 +20,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Zurich"
+  fullTitle = "Altruísmo Eficaz USP"
   strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
