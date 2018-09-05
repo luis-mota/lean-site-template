@@ -1,0 +1,203 @@
+body {
+  padding-top: 60px;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.lead {
+  margin-top: 1rem;
+}
+
+.lead, div, p, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
+}
+
+.jumbotron {
+  background-color: white;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-weight: 300;
+  letter-spacing: 2.75px;
+  font-size: 1.9em;
+}
+
+.row.banner-section {
+  min-height: 350px;
+  position: relative;
+  max-width: 100%;
+  color: white;
+  text-shadow: 0 0 8px #000;
+  background-size: cover;
+  background-position: 60%;
+}
+
+.all-center {
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+}
+
+.banner-section-text {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
+.no-gutter, .no-gutter > .row {
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.text-banner {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.regular-page-container {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+}
+
+#ea-main-logo {
+  margin-bottom: 2em;
+  height: 220px;
+}
+
+/*#footer-social {
+  padding-top: 3em;
+}*/
+
+#footer-social ul {
+  list-style-type: none;
+}
+
+#footer-social ul i {
+  margin-left: -15px;
+  margin-right: 5px;
+}
+
+#footer-legal {
+  padding-top: 4em;
+  text-align: center;
+}
+
+ul.nav {
+  margin-left: auto;
+}
+
+ul.navbar-nav.mr-auto > li:not(:last-child), ul.navbar-nav.mr-auto > div {
+  margin-right: 1em;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 8px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: rgba(0, 0, 0, 0.5);
+    white-space: nowrap;
+}
+
+.dropdown-menu>li>a:hover {
+    color: #343a40;
+    text-decoration: none;
+}
+
+input[type=submit] {
+  margin-top: 2rem;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+}
+
+footer a, footer a:hover {
+  color: white;
+}
+
+@media (min-width: 1200px) {
+  .form-group {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.card-header {
+  background-color: transparent;
+  border-bottom: 0;
+}
+
+.card-header a {
+  color: inherit;
+}
+
+#accordion {
+  margin-top: 2rem;
+}
+
+.card-header a:hover {
+  text-decoration: none;
+}
+
+.card-body {
+  padding-top: 0;
+}
+
+.card-body p:last-child {
+  margin-bottom: 0;
+}
+
+[data-toggle=collapse] h5::before {
+  position: relative;
+  bottom: 4px;
+  font-size: 0.75rem;
+  margin-right: 1em;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f068";
+}
+
+[data-toggle=collapse].collapsed h5::before {
+  content: "\f067";
+}
+
+#mc_embed_signup{
+  clear: left;
+  width: 100%;
+}
+
+.mailinglist {
+  background-color: rgb(0,128,159);
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.mailinglist form {
+  background-color: transparent;
+}
+
+.mailinglist #mc_embed_signup label {
+  padding-bottom: 0;
+  display: inline-block;
+  margin-right: 15px;
+  color: white;
+}
